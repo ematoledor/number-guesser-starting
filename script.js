@@ -37,4 +37,3 @@ const advanceRound = () => {
   currentRoundNumber += 1;
 }
 
-/// Test
